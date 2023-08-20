@@ -1,4 +1,7 @@
-# Subir uma API, no GCP Cloud Run, utilizando FastAPI
+# GCP Cloud Run e webapp FastAPI
+
+Olá galera, segue um passo a passo de um deploy de webapp api demo, utilizando #python + FastAPI no ambiente #GCP #CloudRun.
+
 ### Lista de Comandos
 ![ScreenShot](imagens/comandos.png)
 
