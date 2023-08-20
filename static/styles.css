@@ -1,0 +1,29 @@
+h1 {
+    text-align: "center"
+}
+
+h3 {
+    color: brown;
+}
+#header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 32px;
+    background: #d10303;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    /* text-transform: uppercase; */
+    font-weight: bold;
+    padding-left: 10px;
+}
+#preview {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 32px;
+    bottom: 0;
+    transition: all .2s;
+}
